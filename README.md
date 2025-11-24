@@ -6,7 +6,7 @@ Sou desenvolvedor **Fullstack** especializado em **JavaScript** e **Node.js**. T
 
 - 📅 **Ano de nascimento:** 1983  
 - 🎓 **Formação:** Administração pela Faculdade Estadual do Ceará (**UECE**)
-- 💻 **Sistemas Operacionais:** Usuário frequente de **Linux** (Linux Mint, ZorinOS, Ubuntu e outros)
+- 💻 **Sistemas Operacionais:** Usuário frequente de **Linux** (CachyOS, Linux Mint, ZorinOS, Ubuntu e outros)
 - 🧑‍🍳 **Empreendedor:** Empresário no ramo de alimentação, atuando com uma lanchonete focada em **delivery** e com alto uso de tecnologia para otimizar processos.
 
 ## 🚀 Tecnologias e Ferramentas
