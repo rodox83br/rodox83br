@@ -15,7 +15,7 @@ Sou desenvolvedor **Fullstack** especializado em **JavaScript** e **Node.js**. T
 - **React | TypeScript** (nível intermediário)
 - **APIs RESTful**
 - **Banco de Dados:** MongoDB, MySQL
-- **Linux** (Mint, ZorinOS, Ubuntu)
+- **Linux** (CachyOS, Mint, ZorinOS, Ubuntu)
 - **Git & GitHub**
 - **Automação de processos para delivery**
 - **Vivência e acompanhamento de projetos open source**
