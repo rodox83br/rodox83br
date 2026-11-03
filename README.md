@@ -1,3 +1,7 @@
+<p align="left">
+  <img src="./assets/rodolfo-perfil-instagram.svg" alt="Foto de perfil de Rodolfo Bertini" width="160" height="160" />
+</p>
+
 # 👋 Olá, eu sou Rodolfo Bertini!
 
 ## 🧑‍💻 Sobre mim
