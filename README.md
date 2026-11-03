@@ -1,35 +1,88 @@
 # 👋 Olá, eu sou Rodolfo Bertini!
 
+Empresário, entusiasta de tecnologia e desenvolvedor em constante aprendizado.
+
+Gosto de entender como as coisas funcionam, construir soluções e utilizar a tecnologia para resolver problemas do mundo real.
+
+Atualmente, estou aprofundando meus conhecimentos em desenvolvimento FullStack, infraestrutura e automação, principalmente no ecossistema JavaScript.
+
 ## 🧑‍💻 Sobre mim
 
-Sou desenvolvedor **Fullstack** especializado em **JavaScript** e **Node.js**. Tenho conhecimento em **React** e **TypeScript** e sou um grande entusiasta de tecnologia. O universo do **open source** me fascina, e admiro profundamente a filosofia colaborativa desses projetos.
-
-- 📅 **Ano de nascimento:** 1983  
-- 🎓 **Formação:** Administração pela Faculdade Estadual do Ceará (**UECE**)
-- 💻 **Sistemas Operacionais:** Usuário frequente de **Linux** (CachyOS, Linux Mint, ZorinOS, Ubuntu e outros)
-- 🧑‍🍳 **Empreendedor:** Empresário no ramo de alimentação, atuando com uma lanchonete focada em **delivery** e com alto uso de tecnologia para otimizar processos.
+- 🎓 **Formação:** Administração de Empresas pela Universidade Estadual do Ceará (UECE).
+- 💼 **Empreendedor:** Empresário no setor de alimentação, com experiência em gestão de operações, delivery e processos.
+- 💻 **Desenvolvimento:** Estudando e desenvolvendo projetos com JavaScript, TypeScript, Node.js e React.
+- 🐧 **Linux:** Entusiasta de sistemas Linux, especialmente distribuições baseadas em Arch Linux.
+- 🖥️ **Infraestrutura:** Interesse em servidores, virtualização, containers, redes e automação.
+- 🛠️ **Maker:** Entusiasta de impressão 3D, eletrônica e projetos com ESP32 e Arduino.
 
 ## 🚀 Tecnologias e Ferramentas
 
-- **JavaScript | Node.js**
-- **React | TypeScript** (nível intermediário)
-- **APIs RESTful**
-- **Banco de Dados:** MongoDB, MySQL
-- **Linux** (CachyOS, Mint, ZorinOS, Ubuntu)
-- **Git & GitHub**
-- **Automação de processos para delivery**
-- **Vivência e acompanhamento de projetos open source**
+### Desenvolvimento
 
-## 💡 Interesses
+- JavaScript
+- TypeScript
+- Node.js
+- React
+- Next.js
+- APIs REST
 
-- Aprender e compartilhar conhecimento sobre tecnologia.
-- Participar e contribuir em projetos open source.
-- Empreendedorismo e inovação tecnológica no setor alimentício.
+### Banco de Dados
 
-## 🤝 Vamos Conectar!
+- PostgreSQL
+- Microsoft SQL Server
+- MySQL
+- MongoDB
+- Redis
 
-Se quiser conversar sobre tecnologia, open source, Linux ou empreendedorismo, sinta-se à vontade para me chamar!
+### Infraestrutura e DevOps
+
+- Linux (CachyOS, Ubuntu e outras distribuições)
+- Docker e Docker Compose
+- Proxmox
+- Portainer
+- Cloudflare
+- Git e GitHub
+
+### Monitoramento e Dados
+
+- Grafana
+- SQL
+- Automação e integração de sistemas
+- Análise de dados operacionais
+
+## 💡 Tecnologia aplicada a negócios
+
+Uma das minhas maiores motivações é aproximar tecnologia e empreendedorismo.
+
+Na minha experiência com o setor de alimentação, tenho contato diário com desafios relacionados a:
+
+- Automação de processos operacionais.
+- Otimização de operações de delivery.
+- Análise de indicadores e métricas de desempenho.
+- Integração entre sistemas e serviços.
+- Desenvolvimento de ferramentas para melhorar a eficiência operacional.
+
+Acredito que programar vai muito além de escrever código: é entender problemas, pensar em soluções e transformar ideias em ferramentas úteis.
+
+## 🔎 Interesses
+
+- Desenvolvimento FullStack e arquitetura de software.
+- Open Source e cultura colaborativa.
+- Linux, infraestrutura e self-hosting.
+- Docker, virtualização e automação.
+- Inteligência Artificial aplicada a negócios.
+- Dados, indicadores e otimização de processos.
+- Impressão 3D e projetos maker.
+
+## 🤝 Vamos conectar!
+
+Estou sempre aberto a aprender, compartilhar conhecimento e trocar experiências sobre tecnologia, desenvolvimento, infraestrutura e empreendedorismo.
+
+Se algum desses assuntos também faz parte do seu universo, será um prazer trocar uma ideia!
 
 ---
-_Rodolfo Bertini_  
-[Bertini.org](https://bertini.org/)
+
+🌐 **Website:** [rodolfobertini.github.io](https://rodolfobertini.github.io/)  
+💻 **GitHub:** [github.com/rodolfobertini](https://github.com/rodolfobertini)
+
+<sub>Construindo, aprendendo e evoluindo um projeto de cada vez. 🚀</sub>
